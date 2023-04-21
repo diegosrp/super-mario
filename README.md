@@ -34,7 +34,7 @@ The Terraform code requires the following input parameters:
 | location | default region | `string` | `null` | Yes |
 
 ```powershell
-This module it will create a resource group and a azure container instance.
+This module it will create a resource group called "rg-games" and a azure container instance called "super-mario".
 ```
 
 # NOTE: I just automated the resources using Terraform and Azure, so I am not responsible for the image or application. 
